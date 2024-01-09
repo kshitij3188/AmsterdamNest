@@ -1,7 +1,5 @@
 # AmsterdamNest
 
-### [Live Website](https://AmsterdamNest-kk.herokuapp.com/)
-
 AmsterdamNest is a website where users can create and review campgrounds. To review or create a housing, you must have an account. \
 This project was created using Node.js, Express, MongoDB, and Bootstrap.
 Features
